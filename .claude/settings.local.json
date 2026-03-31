@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:fal.ai)",
+      "Bash(npm install:*)",
+      "Bash(node server.js)",
+      "Bash(curl -s http://localhost:3000)",
+      "Bash(taskkill //F //IM node.exe)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(curl -s -X POST http://localhost:3000/api/generate -H \"Content-Type: application/json\" -d '{\"\"\"\"prompt\"\"\"\":\"\"\"\"Abstract geometric art of Paris\"\"\"\"}')",
+      "Bash(curl -s -X POST http://localhost:3000/api/generate -H \"Content-Type: application/json\" -d '{\"\"prompt\"\":\"\"Abstract geometric art of Paris\"\"}')",
+      "Bash(curl -s -X POST http://localhost:3000/api/generate -H \"Content-Type: application/json\" -d '{\"\"prompt\"\":\"\"Seamless flat bold duotone geometric tile pattern. 8-pointed Islamic star tessellation rooted in Moroccan zellij tilework of Marrakech. Dominant colours #C1440E and #E8832A alternating across star and kite forms. Fixed accent #824cff appears as corner pips covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Strict orthogonal repeat. Output: seamless tileable PNG.\"\"}')",
+      "Bash(curl -s -X POST 'https://queue.fal.run/fal-ai/nano-banana-2' -H \"Authorization: Key 09682018-1007-4f0d-80dc-9ee94bb5c1f0:bc9acc8dff3ae9a8e7c4266fb9e9890a\" -H \"Content-Type: application/json\" -d '{\"\"prompt\"\":\"\"red circle on white background\"\",\"\"num_images\"\":1,\"\"aspect_ratio\"\":\"\"16:9\"\",\"\"resolution\"\":\"\"1K\"\",\"\"output_format\"\":\"\"png\"\"}')",
+      "Bash(curl -s \"https://queue.fal.run/fal-ai/nano-banana-2/requests/019d42b2-e8c0-7700-88aa-0e9d8854280e/status\" -H \"Authorization: Key 09682018-1007-4f0d-80dc-9ee94bb5c1f0:bc9acc8dff3ae9a8e7c4266fb9e9890a\")"
+    ]
+  }
+}

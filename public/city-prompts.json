@@ -1,0 +1,221 @@
+{
+  "Amsterdam": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Stepped-gable canal house roofline lattice rooted in Dutch Golden Age architecture of Amsterdam. Dominant colours #1A3A5C and #FF6B00 alternating across gable and rectangular frame forms. Fixed accent #824cff appears as keystone pips covering 8% of surface. No gradients, no shadows, no figurative elements, no text. Mirror-x repeat. Output: seamless tileable PNG."
+  },
+  "Athens": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Greek key meander labyrinth rooted in Parthenon frieze border tradition of Athens. Dominant colours #F5F0E1 and #1E3A6E alternating across spiral band and background forms. Fixed accent #824cff appears as spiral centre fills covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Auckland": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Māori koru double-spiral kowhaiwhai rafter motif rooted in wharenui meeting house painting of New Zealand. Dominant colours #2D5F2D and #E8D5A0 alternating across spiral band and background forms. Fixed accent #824cff appears as spiral centre dots covering 6% of surface. No gradients, no shadows, no figurative elements, no text. Mirror-y repeat. Output: seamless tileable PNG."
+  },
+  "Bangkok": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Lai thai flame-pointed arch lattice rooted in Wat Phra Kaew gable ornamentation of Bangkok. Dominant colours #8B0000 and #D4AF37 alternating across arch and diamond lattice forms. Fixed accent #824cff appears as inner arch fills covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Brick offset repeat. Output: seamless tileable PNG."
+  },
+  "Barcelona": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Panot hexagonal flower pavement tile rooted in Barcelona Eixample sidewalk tradition (1916). Dominant colours #E85D26 and #F2C12E alternating across petal and background hexagonal forms. Fixed accent #824cff appears as flower centre circles covering 8% of surface. No gradients, no shadows, no figurative elements, no text. Hex offset repeat. Output: seamless tileable PNG."
+  },
+  "Beijing": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Chuanghua window lattice grid rooted in Forbidden City Ming dynasty carved screens of Beijing. Dominant colours #C41E22 and #D4A843 alternating across rectangular frame and cross subdivision forms. Fixed accent #824cff appears as centre square fills covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Berlin": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Bauhaus modular quadrant composition rooted in Dessau school geometric exercises (1925–32) of Berlin. Dominant colours #1A1A1A and #E8E8E8 alternating across circle, triangle and rectangle forms. Fixed accent #824cff appears as one shape fill per tile covering 8% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Bogotá": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Muisca stepped spiral and zigzag band motif rooted in pre-Columbian gold-work engravings of Colombia. Dominant colours #2E4A1E and #D4A017 alternating across spiral and background forms. Fixed accent #824cff appears as spiral centre fills covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Mirror-xy repeat. Output: seamless tileable PNG."
+  },
+  "Brussels": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Art Nouveau whiplash curve lattice rooted in Victor Horta ironwork architecture of Brussels. Dominant colours #2B5E4A and #C9A84C alternating across tendril and background forms. Fixed accent #824cff appears as node accents at curve intersections covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Budapest": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Zsolnay ceramic concentric rosette tessellation rooted in Hungarian pyrogranite tilework of Budapest. Dominant colours #1B5E4B and #E6C75A alternating across concentric bloom and background forms. Fixed accent #824cff appears as rosette centre fills covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Buenos Aires": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Fileteado porteño symmetrical scroll ribbon motif rooted in Buenos Aires bus and shopfront decorative tradition. Dominant colours #4A90D9 and #F5E050 alternating across scroll and background forms. Fixed accent #824cff appears as rosettes at scroll junctions covering 8% of surface. No gradients, no shadows, no figurative elements, no text. Mirror-xy repeat. Output: seamless tileable PNG."
+  },
+  "Cairo": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Mamluk 8-pointed star-and-cross tessellation rooted in Sultan Hassan Mosque floor panels (1356) of Cairo. Dominant colours #1A1A3E and #C4973B alternating across star and cross interstice forms. Fixed accent #824cff appears as inner concentric star fills covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Cape Town": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Ndebele chevron and triangle band mural motif rooted in South African house painting tradition. Dominant colours #2196F3 and #E85D26 alternating across chevron and horizontal band forms. Fixed accent #824cff appears as thin stripe accents between rows covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Casablanca": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Zellige 12-pointed star rosette tessellation rooted in Hassan II Mosque carved plaster screens of Casablanca. Dominant colours #E8D5A0 and #1E6B5A alternating across star rosette and kite interstice forms. Fixed accent #824cff appears as centre dodecagon fills covering 8% of surface. No gradients, no shadows, no figurative elements, no text. Hex offset repeat. Output: seamless tileable PNG."
+  },
+  "Chicago": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Prairie School stained-glass chevron leading motif rooted in Frank Lloyd Wright window designs of Chicago. Dominant colours #D2B48C and #8B4513 alternating across chevron and rectangular bar forms. Fixed accent #824cff appears as vertical bar accents at apexes covering 6% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Copenhagen": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Nordic tumbling-blocks hexagonal rhombus tessellation rooted in Royal Copenhagen porcelain and Danish mid-century design. Dominant colours #5B8BA0 and #F5F0E1 alternating across rhombus face forms. Fixed accent #824cff appears as select rhombus fills covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Hex offset repeat. Output: seamless tileable PNG."
+  },
+  "Delhi": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Mughal jali perforated screen with six-pointed star lattice rooted in Humayun's Tomb (1570) sandstone screens of Delhi. Dominant colours #F2C12E and #E85D26 alternating across star and hexagonal interstice forms. Fixed accent #824cff appears as centre hexagon fills covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Hex offset repeat. Output: seamless tileable PNG."
+  },
+  "Dubai": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Mashrabiya screen lattice with interlocking rectangular frames and cross subdivisions rooted in Al Fahidi historic district window screens of Dubai. Dominant colours #C41E22 and #D4A843 alternating across frame and background forms. Fixed accent #824cff appears as inner frame accent lines covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Dublin": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Celtic interlace continuous knotwork band rooted in Book of Kells illuminated manuscript (c. 800 CE) of Dublin. Dominant colours #D4AF37 and #1B6B3A alternating across ribbon and background forms. Fixed accent #824cff appears as diamond marks at crossing points covering 8% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Edinburgh": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Scottish tartan plaid intersecting band weave rooted in Highland clan textile tradition of Edinburgh. Dominant colours #1A3A5C and #8B1A1A alternating across horizontal and vertical band forms. Fixed accent #824cff appears as thin sett lines between bands covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Florence": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Renaissance intarsia octagonal frame tessellation rooted in Florentine Duomo marble floor inlay tradition. Dominant colours #E8D5A0 and #8B4513 alternating across octagon and nested rosette forms. Fixed accent #824cff appears as rosette centre fills covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Hanoi": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Vietnamese bamboo diagonal crosshatch lattice rooted in traditional Hanoi screen panel craft. Dominant colours #8B0000 and #D4AF37 alternating across diamond and crosshatch forms. Fixed accent #824cff appears as diamond centre dot accents covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Havana": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Art Deco tropical fan arc with stepped zigzag border rooted in 1930s Vedado cinema facades of Havana. Dominant colours #40E0D0 and #FF6B6B alternating across fan arc and background forms. Fixed accent #824cff appears as innermost fan arc fills covering 8% of surface. No gradients, no shadows, no figurative elements, no text. Mirror-x repeat. Output: seamless tileable PNG."
+  },
+  "Helsinki": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Finnish Marimekko modular rounded rectangle grid rooted in 1960s Helsinki textile design tradition. Dominant colours #2B4570 and #F5F0E1 alternating across rounded rectangle and background forms. Fixed accent #824cff appears as module separation lines covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Ho Chi Minh City": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. French-Vietnamese fusion hexagonal encaustic floor tile rooted in Saigon colonial-era tile craft tradition. Dominant colours #E85D26 and #2E4A1E alternating across hexagonal cell and geometric floral forms. Fixed accent #824cff appears as cell boundary lines covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Hex offset repeat. Output: seamless tileable PNG."
+  },
+  "Hong Kong": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Dense vertical tenement window grid with varied-width stacked rectangles rooted in 1970s Mong Kok building facades of Hong Kong. Dominant colours #1A1A2E and #FF4444 alternating across rectangle and background forms. Fixed accent #824cff appears as horizontal floor-line accents covering 6% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Iguazu": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Concentric water ripple bullseye circles with overlapping rings rooted in Guaraní circular motifs and Iguazu Falls spray patterns of Argentina. Dominant colours #4488EE and #22AACC alternating across concentric ring forms. Fixed accent #824cff appears as ring separator accents covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Brick offset repeat. Output: seamless tileable PNG."
+  },
+  "Istanbul": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Iznik ogival arch and lozenge lattice rooted in Rüstem Pasha Mosque (1563) ceramic tile panels of Istanbul. Dominant colours #E85D26 and #1E6B8A alternating across arch and inner lozenge forms. Fixed accent #824cff appears as arch apex pip accents covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Brick offset repeat. Output: seamless tileable PNG."
+  },
+  "Jakarta": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Batik kawung interlocking oval and circle diamond grid rooted in Javanese royal batik textile tradition of Jakarta. Dominant colours #8B4513 and #E8D5A0 alternating across oval and diamond forms. Fixed accent #824cff appears as diamond grid boundary lines covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Jerusalem": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Six-pointed star hexagonal tessellation rooted in Dome of the Rock geometric tilework of Jerusalem. Dominant colours #E8E0D0 and #D4AF37 alternating across star and interstice forms. Fixed accent #824cff appears as inner star detail lines covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Hex offset repeat. Output: seamless tileable PNG."
+  },
+  "Johannesburg": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Zulu beadwork interlocking triangle and diamond band motif rooted in isicholo beadwork patterns of South Africa. Dominant colours #1A1A1A and #E85D26 alternating across triangle and band forms. Fixed accent #824cff appears as band border stripe accents covering 8% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Kyoto": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Seigaiha concentric wave arc scallop tessellation rooted in Heian-period kimono textile dyeing tradition of Kyoto. Dominant colours #FF69B4 and #D946EF alternating across concentric arc and background forms. Fixed accent #824cff appears as base-line accents between scallop rows covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Brick offset repeat. Output: seamless tileable PNG."
+  },
+  "Lagos": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Yoruba adire eleko diagonal zigzag band with triangle fills rooted in Lagos market resist-dyed textile tradition. Dominant colours #00695C and #4CAF50 alternating across zigzag and triangle forms. Fixed accent #824cff appears as diamond accents at intersections covering 8% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Lima": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Inca tocapu grid of small geometric symbol squares rooted in royal textile weaving tradition of Peru. Dominant colours #8B0000 and #D4AF37 alternating across symbol square and border forms. Fixed accent #824cff appears as grid cell boundary lines covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Lisbon": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Azulejo diamond cross with quarter-circle corner arcs rooted in 17th-century Lisbon church facade ceramic tilework. Dominant colours #FFFFFF and #1565C0 alternating across diamond cross and arc forms. Fixed accent #824cff appears as cross centre dot accents covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "London": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Victorian encaustic octagon-and-square tessellation rooted in Minton & Co. 1860s Underground station floor tiles of London. Dominant colours #1A1A2E and #C41E22 alternating across octagon and corner square forms. Fixed accent #824cff appears as inner octagonal ring details covering 8% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Los Angeles": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Mid-century modern atomic boomerang and starburst grid rooted in 1950s Palm Springs architecture and textile design of Los Angeles. Dominant colours #FF6B00 and #40E0D0 alternating across boomerang and starburst forms. Fixed accent #824cff appears as module grid line accents covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Madrid": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Moorish 8-pointed star and cross lattice rooted in Alhambra-influenced tilework of Madrid. Dominant colours #C41E22 and #D4AF37 alternating across star and cross forms. Fixed accent #824cff appears as inner star concentric lines covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Marrakech": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. 8-pointed Islamic star tessellation rooted in Moroccan zellij tilework of Marrakech. Dominant colours #C1440E and #E8832A alternating across star and kite forms. Fixed accent #824cff appears as corner pips covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Strict orthogonal repeat. Output: seamless tileable PNG."
+  },
+  "Melbourne": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Aboriginal concentric circle and dotted pathway grid rooted in Western Desert dot painting tradition of Australia. Dominant colours #8B4513 and #E85D26 alternating across circle ring and pathway forms. Fixed accent #824cff appears as pathway node accents covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Mexico City": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Aztec xicalcoliuhqui stepped-fret angular spiral rooted in Teotihuacán and Mitla temple frieze carvings of Mexico. Dominant colours #2E4A1E and #C41E22 alternating across stepped spiral and background forms. Fixed accent #824cff appears as spiral centre square fills covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Mirror-xy repeat. Output: seamless tileable PNG."
+  },
+  "Milan": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Terrazzo irregular geometric chip mosaic rooted in Italian terrazzo flooring tradition of Milan. Dominant colours #1A1A1A and #E8E0D0 alternating across chip fragment forms. Fixed accent #824cff appears as chip border accents covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Montreal": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Art Deco layered fan arc with stepped border rooted in 1930s Montreal theatre and cinema facade ornamentation. Dominant colours #1565C0 and #E8E0D0 alternating across fan arc and border forms. Fixed accent #824cff appears as fan base line accents covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Mirror-x repeat. Output: seamless tileable PNG."
+  },
+  "Moscow": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Constructivist diagonal band and wedge composition rooted in Rodchenko and El Lissitzky Soviet graphic tradition of Moscow. Dominant colours #1A1A1A and #C41E22 alternating across diagonal band and wedge forms. Fixed accent #824cff appears as circle fills at intersections covering 8% of surface. No gradients, no shadows, no figurative elements, no text. 45-degree rotation repeat. Output: seamless tileable PNG."
+  },
+  "Mumbai": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Rangoli geometric mandala with nested diamond and lotus petal forms rooted in Mumbai festival rangoli and Art Deco building ornament. Dominant colours #FF6B00 and #E85D26 alternating across mandala and petal forms. Fixed accent #824cff appears as mandala centre accents covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Munich": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Bavarian diamond harlequin rhombus diagonal grid rooted in Bavarian state flag pattern tradition of Munich. Dominant colours #1565C0 and #FFFFFF alternating across rhombus forms. Fixed accent #824cff appears as diamond boundary lines covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Nairobi": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Maasai shield concentric oval with angular division motif rooted in Maasai warrior shield painting of Kenya. Dominant colours #1A1A1A and #C41E22 alternating across oval and division forms. Fixed accent #824cff appears as inner shield accent marks covering 8% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "New York": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Manhattan orthogonal grid with varied-width perpendicular lines and rectangular blocks rooted in NYC street grid and Mondrian's Broadway Boogie Woogie. Dominant colours #1A1A2E and #F5E050 alternating across block and line forms. Fixed accent #824cff appears as select block fills covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Oslo": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Viking angular knotwork interlace ribbon weave rooted in Norwegian stave church wood carving tradition of Oslo. Dominant colours #E8D5A0 and #2B4570 alternating across ribbon and background forms. Fixed accent #824cff appears as crossing-point accent marks covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Paris": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Haussmann radiating boulevard star-intersection lattice rooted in Baron Haussmann's 1860s Paris urban plan viewed from above. Dominant colours #E8D5A0 and #1A1A2E alternating across wedge and boulevard forms. Fixed accent #824cff appears as rond-point circle fills covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Hex offset repeat. Output: seamless tileable PNG."
+  },
+  "Prague": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Czech Cubist faceted angular plane tessellation rooted in Prague Cubist architecture facade tradition. Dominant colours #2B4570 and #D4AF37 alternating across faceted plane forms. Fixed accent #824cff appears as facet edge accents covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Queenstown": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Māori tā moko carved band composition with arches, triangles, zigzags, nested rectangles and angular spirals in horizontal frieze bands, rooted in wharenui meeting house carving and kowhaiwhai painting of New Zealand. Dominant colours #00695C and #4CAF50 alternating across carved shape and background forms. Fixed accent #824cff appears as band border lines covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Reykjavik": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Basalt column honeycomb hexagonal tessellation rooted in Icelandic columnar basalt formations at Reynisfjara. Dominant colours #37474F and #78909C alternating across hexagonal forms. Fixed accent #824cff appears as hexagon boundary lines covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Hex offset repeat. Output: seamless tileable PNG."
+  },
+  "Rio de Janeiro": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Copacabana sinusoidal wave band mosaic with interlocking almond cells rooted in Roberto Burle Marx's 1970 promenade stone mosaic of Rio de Janeiro. Dominant colours #4527A0 and #A5D6A7 alternating across wave band and counter-wave forms. Fixed accent #824cff appears as wave crest accent lines covering 8% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Rome": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Roman opus tessellatum with nested squares and triangles in modular grid rooted in ancient Roman villa floor mosaic tradition. Dominant colours #8B4513 and #E8D5A0 alternating across square and triangle forms. Fixed accent #824cff appears as tile boundary accent lines covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "San Francisco": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Victorian gingerbread scalloped arch and spindle row motif rooted in Painted Ladies house trim ornamentation of San Francisco. Dominant colours #40E0D0 and #FF6B6B alternating across scallop and spindle forms. Fixed accent #824cff appears as spindle centre accents covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Santiago": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Mapuche stepped cross and diamond diagonal grid rooted in Mapuche weaving textile tradition of southern Chile. Dominant colours #1A1A1A and #C41E22 alternating across cross and diamond forms. Fixed accent #824cff appears as cross centre accents covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "São Paulo": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Brazilian concrete art interlocking geometric colour block composition rooted in São Paulo neo-concrete movement and Lygia Clark. Dominant colours #FF6B00 and #1A1A2E alternating across colour block forms. Fixed accent #824cff appears as module boundary lines covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Seoul": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Korean dancheong four-petal lotus within concentric square frames rooted in Jogyesa Temple beam painting tradition of Seoul. Dominant colours #1565C0 and #C41E22 alternating across lotus petal and square frame forms. Fixed accent #824cff appears as lotus centre circle fills covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Shanghai": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Art Deco fan arc intersecting Chinese lattice grid rooted in 1930s Shanghai Bund building facade ornamentation. Dominant colours #1A1A2E and #D4AF37 alternating across fan and lattice forms. Fixed accent #824cff appears as fan centre details covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Singapore": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Peranakan pinwheel rotated square tile with triangular negative-space corners rooted in Joo Chiat shophouse glazed floor tile tradition of Singapore. Dominant colours #2BA89C and #40E8D0 alternating across rotated square and triangle forms. Fixed accent #824cff appears as tile cell boundary grid lines covering 10% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Stockholm": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Swedish Dala concentric nested diamond with triangular corner fills rooted in Dalarna kurbits folk art painting tradition. Dominant colours #1565C0 and #F5E050 alternating across diamond layer forms. Fixed accent #824cff appears as innermost diamond fills covering 8% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Sydney": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Opera House overlapping pointed sail arch grid rooted in Sydney Opera House shell roof geometry. Dominant colours #1565C0 and #E8E0D0 alternating across arch and background forms. Fixed accent #824cff appears as arch peak accent lines covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Taipei": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Temple lattice fused with circuit-board rectangular pathway grid rooted in Longshan Temple screens and Taipei tech-city identity. Dominant colours #C41E22 and #D4AF37 alternating across lattice and pathway forms. Fixed accent #824cff appears as circuit node accent dots covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Tehran": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Persian girih 10-pointed star with elongated hexagon and bow-tie tessellation rooted in Darb-e Imam shrine (1453) tile patterns of Tehran. Dominant colours #1E6B8A and #D4AF37 alternating across star and hexagon forms. Fixed accent #824cff appears as inner decagon detail fills covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Tel Aviv": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Bauhaus White City modular circle and rectangle horizontal band grid rooted in Tel Aviv UNESCO Bauhaus heritage architecture. Dominant colours #E8E0D0 and #1565C0 alternating across circle and rectangle forms. Fixed accent #824cff appears as circle centre dot accents covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Tokyo": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Asanoha six-pointed hemp leaf star with twelve triangular subdivisions rooted in kumiko lattice woodwork and Edo-period textile tradition of Tokyo. Dominant colours #1A1A2E and #C41E22 alternating across triangular segment forms. Fixed accent #824cff appears as centre hexagonal pip fills covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Hex offset repeat. Output: seamless tileable PNG."
+  },
+  "Toronto": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Multicultural mosaic modular grid with varied-proportion squares and rectangles rooted in Toronto PATH network and cultural-mosaic civic identity. Dominant colours #C41E22 and #1A1A2E alternating across module forms. Fixed accent #824cff appears as module boundary line accents covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Vancouver": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Pacific Northwest formline with bold interlocking ovoid and U-shapes rooted in Coast Salish and Haida First Nations art tradition of Vancouver. Dominant colours #2E4A1E and #C41E22 alternating across ovoid and U-shape forms. Fixed accent #824cff appears as ovoid centre accent fills covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Venice": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Gothic quatrefoil tracery with pointed arch frames and triangular spandrels rooted in Palazzo Ducale 14th-century arcade stonework of Venice. Dominant colours #1E6B8A and #D4AF37 alternating across quatrefoil and spandrel forms. Fixed accent #824cff appears as quatrefoil centre circle accents covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Vienna": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Secessionist concentric square spiral with circle accents at right-angle turns rooted in Vienna Secession building ornament and Gustav Klimt mosaic geometry. Dominant colours #1A1A1A and #D4AF37 alternating across spiral band and background forms. Fixed accent #824cff appears as centre square fills covering 8% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  },
+  "Warsaw": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Wycinanki paper-cut symmetrical angular folk motif rooted in Polish wycinanki paper-cutting folk art tradition of Warsaw. Dominant colours #2E4A1E and #C41E22 alternating across cut-out shape and background forms. Fixed accent #824cff appears as mirror-axis accent lines covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Mirror-xy repeat. Output: seamless tileable PNG."
+  },
+  "Zurich": {
+    "prompt_for_image_model": "Seamless flat bold duotone geometric tile pattern. Swiss International Style modular rectangle grid with rhythmic solid accent fills rooted in Josef Müller-Brockmann's Zurich typographic grid system. Dominant colours #E8E0D0 and #C41E22 alternating across rectangle and grid line forms. Fixed accent #824cff appears as offset accent rectangle fills covering 7% of surface. No gradients, no shadows, no figurative elements, no text. Straight repeat. Output: seamless tileable PNG."
+  }
+}

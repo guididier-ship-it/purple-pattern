@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Purple Pattern</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&family=Spectral:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app">
+    <header>
+      <h1>Purple Pattern</h1>
+      <p class="subtitle">City abstractions, generated.</p>
+    </header>
+
+    <main>
+      <div class="search-container">
+        <div class="input-wrapper">
+          <input
+            type="text"
+            id="cityInput"
+            placeholder="Search a city..."
+            autocomplete="off"
+            spellcheck="false"
+          />
+          <div id="dropdown" class="dropdown"></div>
+        </div>
+        <button id="generateBtn" disabled>Generate</button>
+      </div>
+
+      <div id="output" class="output">
+        <div id="placeholder" class="placeholder">
+          <span class="placeholder-icon">◆</span>
+          <p>Select a city and generate its abstract interpretation</p>
+        </div>
+        <div id="loader" class="loader hidden">
+          <div class="spinner"></div>
+          <p>Creating abstraction...</p>
+        </div>
+        <div id="result" class="result hidden">
+          <img id="resultImage" alt="Generated city abstraction" />
+          <div class="result-actions">
+            <span id="resultCity" class="result-city"></span>
+            <div class="result-buttons">
+              <a id="downloadPng" class="download-btn" download>PNG</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
