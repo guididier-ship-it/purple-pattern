@@ -9,8 +9,9 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-// Debug: log whether FAL_KEY is set (not the value itself)
-console.log('FAL_KEY configured:', !!process.env.FAL_KEY, 'length:', (process.env.FAL_KEY || '').length);
+// Debug: log FAL_KEY diagnostics (not the value itself)
+const falKey = process.env.FAL_KEY || '';
+console.log('FAL_KEY configured:', !!falKey, 'length:', falKey.length, 'starts:', falKey.slice(0, 8), 'ends:', falKey.slice(-4));
 
 app.use(express.json());
 app.use(express.static(join(__dirname, 'public')));
